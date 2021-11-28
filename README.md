@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-html-and-css-nftcard-box-lrB-bjTXI)
+- Live Site URL: [Add live site URL here](https://d-nft-card-github-io-d80s1d5be-deserthawk.vercel.app/)
 
 ## My process
 
