@@ -31,7 +31,7 @@ body {
 }
 
 .box-image {
-    width: 100%;
+    width: 300px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -39,7 +39,8 @@ body {
 }
 
 .box-image img {
-    width: 85%;
+    width: 250px;
+    height: 250px;
     margin: var(--box-margin-value) auto var(--box-margin-value) auto;
     border-radius: var(--box-radius);
     cursor: pointer;
@@ -47,8 +48,9 @@ body {
 
 .box-image-hover {
     position: absolute;
-    width: 85%;
-    height: 86%;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
     background-color: hsla(178, 100%, 50%, 0.644);
     opacity: 0;
     margin: var(--box-margin-value);
