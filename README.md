@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-html-and-css-nftcard-box-lrB-bjTXI)
-- Live Site URL: [Live Site](https://d-nft-card-github-io-d80s1d5be-deserthawk.vercel.app/)
+- Live Site URL: [Live Site](https://d-nft-card-github-io.vercel.app/)
 
 ## My process
 
@@ -51,4 +51,4 @@ The most difficult part of the nft card challenge was the hover effect on the im
 
 ## Author
 
-- Instagram - [@codingdaily_blog](https://www.instagram.com/codingdaily_blog)
+- Instagram - [@codingdaily_blog](https://www.instagram.com/codingdaily_blog/)
